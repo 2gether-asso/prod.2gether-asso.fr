@@ -3,6 +3,7 @@ import type { I18n, Diff } from '../type'
 const locale =
 {
 	'What is {0}?': 'Qu\'est-ce que {0} ?',
+	'Subscribe on YouTube': 'Abonne-toi sur YouTube',
 	'Visit our website': 'Visite notre site web',
 	'Join our Discord': 'Rejoins notre Discord',
 } as const

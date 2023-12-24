@@ -1,6 +1,7 @@
 const defaultLocale =
 [
 	'What is {0}?',
+	'Subscribe on YouTube',
 	'Visit our website',
 	'Join our Discord',
 ] as const
