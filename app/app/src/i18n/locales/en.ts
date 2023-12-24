@@ -4,6 +4,8 @@ const defaultLocale =
 	'Subscribe on YouTube',
 	'Visit our website',
 	'Join our Discord',
+	'2GETHER wishes to offer you more worked content and therefore sets up a new YouTube channel: 2GETHER PROD!',
+	'On the agenda: popularization videos, short films, and many other surprises!',
 ] as const
 
 type Keys = typeof defaultLocale[number]
